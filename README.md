@@ -1,8 +1,8 @@
-# Elevate
+# Elevate 2026
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
-Elevate is an open-source project.
+Elevate 2026 is an open-source project.
 
 ## Table of Contents
 
@@ -15,15 +15,15 @@ Elevate is an open-source project.
 
 ## Overview
 
-Elevate provides tools and libraries designed for high-performance and reliable operations.
+Elevate 2026 provides tools and libraries designed for high-performance and reliable operations.
 
 ## Getting Started
 
-*(Instructions on cloning, building, and running Elevate will be detailed here as project components are added.)*
+*(Instructions on cloning, building, and running Elevate 2026 will be detailed here as project components are added.)*
 
 ```bash
-git clone https://github.com/gfilicetti/elevate.git
-cd elevate
+git clone https://github.com/gfilicetti/elevate-2026.git
+cd elevate-2026
 ```
 
 ## Contributing
@@ -32,7 +32,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 ## Code of Conduct
 
-Elevate has adopted the [Contributor Covenant](CODE_OF_CONDUCT.md). We expect all contributors and participants to uphold this code of conduct.
+Elevate 2026 has adopted the [Contributor Covenant](CODE_OF_CONDUCT.md). We expect all contributors and participants to uphold this code of conduct.
 
 ## Security
 
@@ -40,4 +40,4 @@ Please review our [Security Policy](SECURITY.md) for instructions on reporting v
 
 ## License
 
-Elevate is released under the [Apache License, Version 2.0](LICENSE). See the [NOTICE](NOTICE) file for additional copyright attribution details.
+Elevate 2026 is released under the [Apache License, Version 2.0](LICENSE). See the [NOTICE](NOTICE) file for additional copyright attribution details.

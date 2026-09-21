@@ -1,6 +1,6 @@
 # Security Policy
 
-The Elevate team takes the security of our software and users seriously. This document outlines our policy for reporting and handling potential security vulnerabilities.
+The Elevate 2026 team takes the security of our software and users seriously. This document outlines our policy for reporting and handling potential security vulnerabilities.
 
 ## Supported Versions
 

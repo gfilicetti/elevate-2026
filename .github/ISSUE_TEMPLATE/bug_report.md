@@ -23,7 +23,7 @@ If applicable, add screenshots or console output to help explain your problem.
 
 **Environment (please complete the following information):**
 - OS: [e.g. macOS 14.0, Ubuntu 22.04]
-- Elevate Version / Commit: [e.g. main, v0.1.0]
+- Elevate 2026 Version / Commit: [e.g. main, v0.1.0]
 - Runtime / Language Version: [e.g. Node 20, Python 3.11, Go 1.22]
 
 **Additional context**

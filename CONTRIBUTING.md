@@ -1,6 +1,6 @@
-# Contributing to Elevate
+# Contributing to Elevate 2026
 
-Thank you for your interest in contributing to Elevate! We welcome code contributions, documentation improvements, bug reports, and feature proposals.
+Thank you for your interest in contributing to Elevate 2026! We welcome code contributions, documentation improvements, bug reports, and feature proposals.
 
 ## Code of Conduct
 
@@ -60,7 +60,7 @@ By making a contribution to this project, I certify that:
 Every new source file should contain the following Apache 2.0 license boilerplate in the appropriate comment style for the file format:
 
 ```text
-Copyright 2026 Elevate Contributors
+Copyright 2026 Elevate 2026 Contributors
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

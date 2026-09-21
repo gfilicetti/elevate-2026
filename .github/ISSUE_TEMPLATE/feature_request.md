@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea or feature for Elevate
+about: Suggest an idea or feature for Elevate 2026
 title: '[FEATURE] '
 labels: 'enhancement'
 assignees: ''
