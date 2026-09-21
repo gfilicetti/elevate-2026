@@ -1,0 +1,13 @@
+{
+ "employees": [{
+ "employee_id": "EMP-1042",
+ "direct_deposit": {"status": "verified", "last4": "1847"},
+ "relocation_reimbursement": {
+ "approved_amount_usd": 5000,
+ "submitted_amount_usd": 0,
+ "deadline": "2026-09-06",
+ "required_docs": ["moving_invoice", "lease_agreement", "flight_receipts"]
+ },
+ "tax_forms": {"w4_complete": true, "state_form_complete": false}
+ }]
+}

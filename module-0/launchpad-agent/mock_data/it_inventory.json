@@ -1,0 +1,25 @@
+{
+ "orders": [{
+ "order_id": "ORD-2026-8841",
+ "employee_id": "EMP-1042",
+ "employee_name": "Maya Chen",
+ "items": [
+ {"sku": "MBP-M4-16", "name": "MacBook Pro M4 16\"", "status": "in_transit"},
+ {"sku": "MON-LG-27", "name": "LG UltraFine 27\"", "status": "delivered"},
+ {"sku": "KBD-MX", "name": "MX Keys", "status": "delivered"}
+ ],
+ "tracking_id": "1Z999AA10123456784",
+ "carrier": "UPS",
+ "ship_date": "2026-07-01",
+ "carrier_eta":"2026-07-06",
+ "ship_to": "Maya Chen, 1455 Market St, San Francisco, CA"
+ }],
+ "sso_accounts": [{
+ "employee_id": "EMP-1042",
+ "primary_email": "maya.chen@heliosrobotics.com",
+ "sso_provisioned": true,
+ "gpu_cluster_access": false,
+ "gpu_cluster_request_ticket": "IT-9921",
+ "gpu_cluster_request_status": "pending_manager_approval"
+ }]
+}

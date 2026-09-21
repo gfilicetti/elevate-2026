@@ -1,0 +1,14 @@
+{
+ "EMP-1042": [
+ {"day": 1, "id": "sso_login", "label": "Log into SSO", "depends_on": []},
+ {"day": 1, "id": "badge_pickup", "label": "Pick up badge", "depends_on": []},
+ {"day": 1, "id": "laptop_setup", "label": "Set up laptop", "depends_on": ["sso_login"]},
+ {"day": 2, "id": "safety_training", "label": "Robot lab safety training", "depends_on": ["badge_pickup"]},
+ {"day": 2, "id": "ppe_fitting", "label": "PPE fitting", "depends_on": ["safety_training"]},
+ {"day": 3, "id": "lab_access", "label": "Activate LAB_TIER_2 badge", "depends_on": ["safety_training","ppe_fitting"]},
+ {"day": 3, "id": "gpu_creds", "label": "Get GPU cluster credentials", "depends_on": ["sso_login"]},
+ {"day": 5, "id": "team_intro", "label": "Perception team intro", "depends_on": ["laptop_setup"]},
+ {"day":10, "id": "relocation_filed", "label": "Submit relocation receipts", "depends_on": []},
+ {"day":14, "id": "state_tax_form", "label": "Complete CA state tax form", "depends_on": []}
+ ]
+}

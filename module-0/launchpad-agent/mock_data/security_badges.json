@@ -1,0 +1,18 @@
+{
+ "badges": [{
+ "employee_id": "EMP-1042",
+ "badge_id": "BDG-44102",
+ "tier": "STANDARD",
+ "lab_access": false,
+ "issued_date": "2026-06-28",
+ "requested_tier": "LAB_TIER_2"
+ }],
+ "lab_tier_requirements": {
+ "LAB_TIER_1": ["safety_training_complete"],
+ "LAB_TIER_2": ["safety_training_complete", "ppe_fitting_complete", "manager_signoff"]
+ },
+ "training_records": [
+ {"employee_id": "EMP-1042", "course": "safety_training", "complete": false},
+ {"employee_id": "EMP-1042", "course": "ppe_fitting", "complete": false}
+ ]
+}
