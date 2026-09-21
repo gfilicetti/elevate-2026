@@ -18,7 +18,7 @@ Only the latest active development release receives security updates.
 If you discover a security vulnerability, please report it through one of the following methods:
 
 1. **GitHub Private Vulnerability Reporting**: Use the "Report a vulnerability" button under the **Security** tab of the GitHub repository.
-2. **Email**: If GitHub reporting is unavailable, email security details to `security@example.com` (or project maintainers directly).
+2. **Email**: If GitHub reporting is unavailable, email security details to project maintainers directly.
 
 ### What to Include in Your Report
 

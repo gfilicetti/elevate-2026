@@ -22,7 +22,7 @@ Elevate provides tools and libraries designed for high-performance and reliable 
 *(Instructions on cloning, building, and running Elevate will be detailed here as project components are added.)*
 
 ```bash
-git clone https://github.com/your-org/elevate.git
+git clone https://github.com/gfilicetti/elevate.git
 cd elevate
 ```
 
